@@ -44,10 +44,4 @@ Focused on building reliable systems, learning backend fundamentals, and contrib
 
 ---
 
-## Open Source Contributions
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=pranjal270&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=pranjal270&icon=1&color=5)
