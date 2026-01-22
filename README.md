@@ -1,35 +1,53 @@
-# About Me:
-Pranjal | CS Undergraduate  <br><br>Full-stack web developer in progress.  <br>Turning ideas into production-ready software through projects and open source.
+## About Me
 
+**Pranjal**  
+CS Undergraduate | Full-Stack Developer in Progress  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-thange-324548365/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranjal.thange27@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pranjal270&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pranjal270&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal270&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pranjal270&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Turning ideas into production-ready software through real-world projects and open source.  
+Focused on building reliable systems, learning backend fundamentals, and contributing to meaningful codebases.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pranjal270&icon=1&color=5)](https://visitcount.itsvg.in)
 
+## Connect With Me
 
-<!--
-**pranjal270/pranjal270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-thange-324548365/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranjal.thange27@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages**
+<br>
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+**Frameworks & Tools**
+<br>
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjal270&theme=radical&hide_border=true)
+<br>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=pranjal270&theme=radical&hide_border=true)
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal270&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## Open Source Contributions
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=pranjal270&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=pranjal270&icon=1&color=5)
