@@ -35,6 +35,7 @@ Focused on building reliable systems, backend fundamentals, and meaningful contr
 ---
 
 ## GitHub Stats
+![snake animation](https://raw.githubusercontent.com/pranjal270/pranjal270/output/github-contribution-grid-snake.svg)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=pranjal270&theme=radical&hide_border=true)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=pranjal270&theme=radical&hide_border=true)
