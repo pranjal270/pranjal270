@@ -37,7 +37,7 @@ Focused on building reliable systems, backend fundamentals, and meaningful contr
 ## GitHub Stats
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal270/pranjal270/output/github-contribution-grid-snake-dark.svg"> -->
-  <img alt="snake animation" src="https://raw.githubusercontent.com/pranjal270/pranjal270/output/github-contribution-grid-snake.svg">/
+
 <!-- </picture> -->
 
 
