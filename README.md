@@ -40,7 +40,4 @@ Focused on building reliable systems, backend fundamentals, and meaningful contr
 
 <!-- </picture> -->
 
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal270&layout=compact&theme=radical&hide_border=true)
-
 </div>
