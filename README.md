@@ -1,42 +1,52 @@
-<div align="center">
+<h1 align="center">Hi, I'm Pranjal 👋</h1>
 
-## About Me
-
-**Pranjal**  
-CS Undergraduate | Full-Stack Developer in Progress  
-
-Turning ideas into production-ready software through real-world projects and open source.  
-Focused on building reliable systems, backend fundamentals, and meaningful contributions.
+<p align="center">
+CS Undergraduate • Backend-leaning Full-Stack Developer • Builder in Progress
+</p>
 
 ---
 
-## Connect With Me
+### 👩‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-thange-324548365/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranjal.thange27@gmail.com)
+I’m someone who learns best by building.  
+Currently focused on strengthening my **backend fundamentals**, system thinking, and writing code that actually holds up outside tutorials.
 
----
-
-## Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-**Frameworks & Tools**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+I like working on real projects, fixing real bugs, and contributing where things matter — not just stacking repos for show.
 
 ---
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal270/pranjal270/output/github-contribution-grid-snake-dark.svg"> -->
+### ⚒️ Tech I Work With
 
-<!-- </picture> -->
+**Languages:**  
+Python • JavaScript • HTML • CSS  
 
-</div>
+**Frameworks & Tools:**  
+React • Node.js • Express • Django • MongoDB • Git  
+
+---
+
+### 📌 Current Goals
+
+- Build production-ready backend projects  
+- Contribute consistently to open source  
+- Improve system design thinking  
+- Become the kind of developer people trust with real problems
+
+---
+
+### 🤝 Connect With Me
+
+- LinkedIn → *(add link)*  
+- Email → pranjal.thange27@gmail.com  
+
+---
+
+### ⚡ Fun Fact
+I don’t chase “perfect code”.  
+I chase **working code first**, then make it dangerous.
+
+---
+
+<p align="center">
+⭐ If you like my work, feel free to explore my repositories.
+</p>
