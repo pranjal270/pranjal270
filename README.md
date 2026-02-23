@@ -1,52 +1,17 @@
-<h1 align="center">Hi, I'm Pranjal 👋</h1>
-
-<p align="center">
-CS Undergraduate • Backend-leaning Full-Stack Developer • Builder in Progress
-</p>
+<h2 align="center">I’m Pranjal. I build things that work.</h2>
 
 ---
 
-### 👩‍💻 About Me
+**CS Undergraduate** • *Backend-leaning Full-Stack Developer*  
 
-I’m someone who learns best by building.  
-Currently focused on strengthening my **backend fundamentals**, system thinking, and writing code that actually holds up outside tutorials.
 
-I like working on real projects, fixing real bugs, and contributing where things matter — not just stacking repos for show.
+Lately I’ve been deep-diving into **backend logic**, **system design**, and writing code that holds up **outside localhost** — alongside exploring **app development** and strengthening my **DSA skills**.  
 
----
+I’m most interested in problems that make me **think, break things, and rebuild them better.**
 
-### ⚒️ Tech I Work With
+**Tech**  
+`React` `Node` `Express` `Django` `MongoDB`
 
-**Languages:**  
-Python • JavaScript • HTML • CSS  
+📫 **Reach me →** pranjal.thange27@gmail.com
 
-**Frameworks & Tools:**  
-React • Node.js • Express • Django • MongoDB • Git  
-
----
-
-### 📌 Current Goals
-
-- Build production-ready backend projects  
-- Contribute consistently to open source  
-- Improve system design thinking  
-- Become the kind of developer people trust with real problems
-
----
-
-### 🤝 Connect With Me
-
-- LinkedIn → *(add link)*  
-- Email → pranjal.thange27@gmail.com  
-
----
-
-### ⚡ Fun Fact
-I don’t chase “perfect code”.  
-I chase **working code first**, then make it dangerous.
-
----
-
-<p align="center">
-⭐ If you like my work, feel free to explore my repositories.
-</p>
+⚡ *My commits are cleaner than my desk.*
