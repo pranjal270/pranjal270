@@ -1,6 +1,6 @@
-<h2 align="center">I’m Pranjal. I build things that work.</h2>
+<h2 align="center">I’m  Pranjal👩‍💻. I build things that work.</h2>
 
----
+
 
 **CS Undergraduate** • *Backend-leaning Full-Stack Developer*  
 
